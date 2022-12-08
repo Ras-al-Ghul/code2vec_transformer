@@ -7,7 +7,7 @@ attrs==18.1.0
 bleach==1.5.0
 boto3==1.7.55
 botocore==1.10.55
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 cndevspaces==0.2.19
 colorama==0.3.9
